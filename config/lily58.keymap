@@ -46,7 +46,7 @@
 &kp ESC    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_CLR_ALL  &bt BT_CLR                          &bt BT_CLR  &kp PIPE   &kp TILDE        &kp UNDERSCORE  &kp PLUS   &kp RBKT
 &kp GRAVE  &kp F2        &kp F3        &kp F4        &kp F5          &kp F6                              &kp F7      &kp F8     &kp F9           &kp MINUS       &kp EQUAL  &kp LBKT
 &kp CAPS   &kp EXCL      &kp AT        &kp HASH      &kp DOLLAR      &kp PRCNT                           &kp CARET   &kp AMPS   &kp KP_MULTIPLY  &kp LPAR        &kp RPAR   &kp LEFT_BRACE
-&kp LSHFT  &trans        &trans        &trans        &trans          &trans      &kp PG_DN    &kp PG_UP  &trans      &kp MINUS  &kp KP_PLUS      &kp LBRC        &kp RBRC   &kp RSHFT
+&kp LSHFT  &trans        &out OUT_BLE  &bt BT_NXT    &out OUT_USB    &trans      &kp PG_DN    &kp PG_UP  &trans      &kp MINUS  &kp KP_PLUS      &kp LBRC        &kp RBRC   &kp RSHFT
                                        &kp LCTRL     &kp LALT        &trans      &kp SPACE    &kp RET    &trans      &kp RGUI   &kp RCTRL
             >;
 
